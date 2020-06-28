@@ -1,4 +1,4 @@
-# WebsiteTracker
+# WebsiteTracker Version 1.0
 Select which Browser* to enumurate, and it gets your recent vistited URLs and find the corresponding IP address for that URL.
 
 Supported Platforms: Linux, MacOS, and Windows.
